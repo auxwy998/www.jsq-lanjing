@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "lanjing-lianjie-shibai-paichab",
+    "title": "蓝鲸加速器连接失败怎么办？15种常见错误解决方法",
+    "date": "2026-07-13",
+    "excerpt": "蓝鲸加速器连不上？超时？报错？本文汇总15种最常见的连接问题及对应解决方案，一步步教你排查恢复加速。",
+    "category": "问题排查",
+    "image": "/images/article-download-install.webp"
+  },
+  {
+    "slug": "download-install-guide",
+    "title": "蓝鲸加速器下载安装全攻略：三分钟从零到上手",
+    "date": "2026-07-07",
+    "excerpt": "第一次用蓝鲸加速器？这篇手把手教你从下载到安装到首次连接，三分钟搞定。",
+    "category": "安装教程",
+    "image": "/images/article-download-install-guide.webp"
+  },
+  {
+    "slug": "windows-install-tutorial",
+    "title": "Windows电脑安装蓝鲸加速器：一步步图文教程",
+    "date": "2026-07-07",
+    "excerpt": "专门给Windows用户写的安装教程，从下载到首次使用每一步都有说明。",
+    "category": "安装教程",
+    "image": "/images/article-windows-install-tutorial-extra.webp"
+  },
+  {
+    "slug": "android-ios-install",
+    "title": "手机版蓝鲸加速器怎么用：Android和iOS安装指南",
+    "date": "2026-07-07",
+    "excerpt": "手机上也能用蓝鲸加速器，Android和iOS都有客户端。这篇分别讲两个平台的安装方法。",
+    "category": "安装教程",
+    "image": "/images/article-android-ios-install.webp"
+  },
+  {
+    "slug": "game-setup-genshin",
+    "title": "蓝鲸加速器游戏加速设置：原神外服延迟优化实录",
+    "date": "2026-07-07",
+    "excerpt": "原神外服怎么加速效果最好？这篇是我用了两个月蓝鲸加速器打原神的设置心得和实测数据。",
+    "category": "游戏加速",
+    "image": "/images/article-game-setup-genshin-extra.webp"
+  },
+  {
+    "slug": "netflix-youtube-acceleration",
+    "title": "用蓝鲸加速器看Netflix：高清影视加速实测分享",
+    "date": "2026-07-07",
+    "excerpt": "想用蓝鲸加速器看Netflix和YouTube 4K？这篇是实测体验和设置建议。",
+    "category": "影视加速",
+    "image": "/images/article-netflix-youtube-acceleration.webp"
+  },
+  {
+    "slug": "multi-device-tips",
+    "title": "蓝鲸加速器多设备同时在线：手机电脑平板一起用",
+    "date": "2026-07-07",
+    "excerpt": "买了蓝鲸加速器但不知道能不能多设备一起用？这篇分享我在三台设备上同时使用的实际体验。",
+    "category": "使用技巧",
+    "image": "/images/article-multi-device-tips-extra.webp"
+  },
+  {
+    "slug": "package-selection",
+    "title": "买哪个套餐更划算：蓝鲸加速器套餐选择建议",
+    "date": "2026-07-07",
+    "excerpt": "蓝鲸加速器有月卡、季卡、年卡几种套餐，选哪个最划算？这篇帮你算笔账。",
+    "category": "使用指南",
+    "image": "/images/article-package-selection.webp"
+  },
+  {
+    "slug": "common-issues-faq",
+    "title": "蓝鲸加速器常见问题解答：新用户必看的十问十答",
+    "date": "2026-07-07",
+    "excerpt": "刚用蓝鲸加速器遇到问题？这篇整理了新用户最常见的十个问题和解决方案。",
+    "category": "常见问题",
+    "image": "/images/article-common-issues-faq-extra.webp"
+  },
+  {
+    "slug": "shopping-acceleration",
+    "title": "网购海淘加速实测：用蓝鲸打开海外电商更快",
+    "date": "2026-07-07",
+    "excerpt": "海淘打开亚马逊和eBay总是转圈？我测试了蓝鲸加速器对海外购物网站的加速效果。",
+    "category": "购物加速",
+    "image": "/images/article-shopping-acceleration-extra.webp"
+  },
+  {
+    "slug": "macos-apple-silicon",
+    "title": "蓝鲸加速器macOS版安装：Apple Silicon原生支持",
+    "date": "2026-07-07",
+    "excerpt": "用Mac的朋友看过来：蓝鲸加速器macOS版安装教程，支持Intel和Apple Silicon芯片。",
+    "category": "安装教程",
+    "image": "/images/article-macos-apple-silicon-extra.webp"
+  }
+]
